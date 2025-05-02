@@ -1,0 +1,13 @@
+C:\Users\lenovo admin\Desktop\C#\Porcentage\bin\Debug\netcoreapp2.1\Porcentage.deps.json
+C:\Users\lenovo admin\Desktop\C#\Porcentage\bin\Debug\netcoreapp2.1\Porcentage.runtimeconfig.json
+C:\Users\lenovo admin\Desktop\C#\Porcentage\bin\Debug\netcoreapp2.1\Porcentage.runtimeconfig.dev.json
+C:\Users\lenovo admin\Desktop\C#\Porcentage\bin\Debug\netcoreapp2.1\Porcentage.dll
+C:\Users\lenovo admin\Desktop\C#\Porcentage\bin\Debug\netcoreapp2.1\Porcentage.pdb
+C:\Users\lenovo admin\Desktop\C#\Porcentage\obj\Debug\netcoreapp2.1\Porcentage.csproj.AssemblyReference.cache
+C:\Users\lenovo admin\Desktop\C#\Porcentage\obj\Debug\netcoreapp2.1\Porcentage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo admin\Desktop\C#\Porcentage\obj\Debug\netcoreapp2.1\Porcentage.AssemblyInfoInputs.cache
+C:\Users\lenovo admin\Desktop\C#\Porcentage\obj\Debug\netcoreapp2.1\Porcentage.AssemblyInfo.cs
+C:\Users\lenovo admin\Desktop\C#\Porcentage\obj\Debug\netcoreapp2.1\Porcentage.csproj.CoreCompileInputs.cache
+C:\Users\lenovo admin\Desktop\C#\Porcentage\obj\Debug\netcoreapp2.1\Porcentage.dll
+C:\Users\lenovo admin\Desktop\C#\Porcentage\obj\Debug\netcoreapp2.1\Porcentage.pdb
+C:\Users\lenovo admin\Desktop\C#\Porcentage\obj\Debug\netcoreapp2.1\Porcentage.genruntimeconfig.cache

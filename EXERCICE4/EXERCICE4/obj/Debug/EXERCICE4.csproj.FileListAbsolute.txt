@@ -1,0 +1,8 @@
+C:\Users\lenovo admin\Desktop\C#\EXERCICE4\EXERCICE4\bin\Debug\EXERCICE4.exe.config
+C:\Users\lenovo admin\Desktop\C#\EXERCICE4\EXERCICE4\bin\Debug\EXERCICE4.exe
+C:\Users\lenovo admin\Desktop\C#\EXERCICE4\EXERCICE4\bin\Debug\EXERCICE4.pdb
+C:\Users\lenovo admin\Desktop\C#\EXERCICE4\EXERCICE4\obj\Debug\EXERCICE4.csproj.AssemblyReference.cache
+C:\Users\lenovo admin\Desktop\C#\EXERCICE4\EXERCICE4\obj\Debug\EXERCICE4.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo admin\Desktop\C#\EXERCICE4\EXERCICE4\obj\Debug\EXERCICE4.csproj.CoreCompileInputs.cache
+C:\Users\lenovo admin\Desktop\C#\EXERCICE4\EXERCICE4\obj\Debug\EXERCICE4.exe
+C:\Users\lenovo admin\Desktop\C#\EXERCICE4\EXERCICE4\obj\Debug\EXERCICE4.pdb

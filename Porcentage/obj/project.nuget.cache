@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "cmcmBPWpiZtbF44D8ye4UkwSSXKGcY7nWwfZsyWJ7BzL6+O1+ujzHRpBz91s01KvDNStpo4tIPo6wKHlkYndoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo admin\\Desktop\\C#\\Porcentage\\Porcentage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo admin\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\lenovo admin\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\lenovo admin\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\lenovo admin\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\lenovo admin\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\lenovo admin\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\lenovo admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

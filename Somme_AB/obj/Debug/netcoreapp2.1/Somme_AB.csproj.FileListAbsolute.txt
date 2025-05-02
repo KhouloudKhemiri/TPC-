@@ -1,0 +1,13 @@
+C:\Users\lenovo admin\Desktop\C#\Somme_AB\bin\Debug\netcoreapp2.1\Somme_AB.deps.json
+C:\Users\lenovo admin\Desktop\C#\Somme_AB\bin\Debug\netcoreapp2.1\Somme_AB.runtimeconfig.json
+C:\Users\lenovo admin\Desktop\C#\Somme_AB\bin\Debug\netcoreapp2.1\Somme_AB.runtimeconfig.dev.json
+C:\Users\lenovo admin\Desktop\C#\Somme_AB\bin\Debug\netcoreapp2.1\Somme_AB.dll
+C:\Users\lenovo admin\Desktop\C#\Somme_AB\bin\Debug\netcoreapp2.1\Somme_AB.pdb
+C:\Users\lenovo admin\Desktop\C#\Somme_AB\obj\Debug\netcoreapp2.1\Somme_AB.csproj.AssemblyReference.cache
+C:\Users\lenovo admin\Desktop\C#\Somme_AB\obj\Debug\netcoreapp2.1\Somme_AB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo admin\Desktop\C#\Somme_AB\obj\Debug\netcoreapp2.1\Somme_AB.AssemblyInfoInputs.cache
+C:\Users\lenovo admin\Desktop\C#\Somme_AB\obj\Debug\netcoreapp2.1\Somme_AB.AssemblyInfo.cs
+C:\Users\lenovo admin\Desktop\C#\Somme_AB\obj\Debug\netcoreapp2.1\Somme_AB.csproj.CoreCompileInputs.cache
+C:\Users\lenovo admin\Desktop\C#\Somme_AB\obj\Debug\netcoreapp2.1\Somme_AB.dll
+C:\Users\lenovo admin\Desktop\C#\Somme_AB\obj\Debug\netcoreapp2.1\Somme_AB.pdb
+C:\Users\lenovo admin\Desktop\C#\Somme_AB\obj\Debug\netcoreapp2.1\Somme_AB.genruntimeconfig.cache

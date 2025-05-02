@@ -1,0 +1,8 @@
+C:\Users\lenovo admin\Desktop\C#\Exercice3pOR\Exercice3pOR\obj\Debug\Exercice3pOR.csproj.AssemblyReference.cache
+C:\Users\lenovo admin\Desktop\C#\Exercice3pOR\Exercice3pOR\obj\Debug\Exercice3pOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo admin\Desktop\C#\Exercice3pOR\Exercice3pOR\obj\Debug\Exercice3pOR.csproj.CoreCompileInputs.cache
+C:\Users\lenovo admin\Desktop\C#\Exercice3pOR\Exercice3pOR\bin\Debug\Exercice3pOR.exe.config
+C:\Users\lenovo admin\Desktop\C#\Exercice3pOR\Exercice3pOR\bin\Debug\Exercice3pOR.exe
+C:\Users\lenovo admin\Desktop\C#\Exercice3pOR\Exercice3pOR\bin\Debug\Exercice3pOR.pdb
+C:\Users\lenovo admin\Desktop\C#\Exercice3pOR\Exercice3pOR\obj\Debug\Exercice3pOR.exe
+C:\Users\lenovo admin\Desktop\C#\Exercice3pOR\Exercice3pOR\obj\Debug\Exercice3pOR.pdb
